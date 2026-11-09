@@ -1,0 +1,22 @@
+{
+  "name": "enjoy-holidays-tour-and-travel",
+  "version": "1.0.0",
+  "description": "Premium travel agency website for Enjoy Holidays Tour and Travel, Katra, Jammu & Kashmir, India",
+  "main": "index.html",
+  "scripts": {
+    "start": "python server.py",
+    "serve": "python -m http.server 3000"
+  },
+  "keywords": [
+    "travel-agency",
+    "katra",
+    "vaishno-devi",
+    "kashmir-tourism",
+    "tour-packages",
+    "taxi-booking",
+    "react",
+    "tailwind"
+  ],
+  "author": "Enjoy Holidays Tour and Travel",
+  "license": "ISC"
+}
